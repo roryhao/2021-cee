@@ -1,5 +1,7 @@
-# 2021
-## 她媽我本帳被盜了
+# 2021 C
+## 我本帳莫名其妙沒了╰（‵□′）╯
+![圖片](https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2015/07/31/20150731-101534_U3260_M76923_7370.JPG?itok=9j4VAfqj)
+
 ## 回家作業 實習課的 8 題
 
 ## 第一題 找零錢
@@ -61,4 +63,18 @@ int main()
 	else printf("F\n");
 }
 ```
-![圖片](https://i1.kknews.cc/SIG=2ru26a9/ctp-vzntr/15301131549198023s8q5n0.jpg)
+## 第五題 因式化簡
+```C
+#include <stdio.h>
+int main()
+{
+	int a,b,ans=1;
+	scanf("%d%d",&a,&b);
+	for(int i=1;i<=b;i++)
+	{
+		if(a%i==0 && b%i==0)
+			ans=i;
+	}
+	printf("%d %d\n",a/ans,b/ans);
+}
+```
