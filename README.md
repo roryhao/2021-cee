@@ -61,4 +61,4 @@ int main()
 	else printf("F\n");
 }
 ```
-(https://i1.kknews.cc/SIG=2ru26a9/ctp-vzntr/15301131549198023s8q5n0.jpg)
+!(https://i1.kknews.cc/SIG=2ru26a9/ctp-vzntr/15301131549198023s8q5n0.jpg)
