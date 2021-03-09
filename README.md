@@ -1,4 +1,4 @@
-#  C
+#  2021-week-1
 ## 第一題 找零錢
 ```C
 #include <stdio.h>
