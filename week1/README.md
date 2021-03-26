@@ -1,5 +1,4 @@
-#  2021-week-1
-## 第一題 找零錢
+# 第一題 找零錢
 ```C
 #include <stdio.h>
 int main()
@@ -9,7 +8,7 @@ int main()
 	printf("%d=50*%d+5*%d+1*%d\n",n,n/50,n%50/5,n%50%5/1);
 }
 ```
-## 第二題 因數個數
+# 第二題 因數個數
 ```C
 #include <stdio.h>
 int main()
@@ -24,7 +23,7 @@ int main()
 	printf("%d\n",a);
 }
 ```
-## 第三題 找倍數
+# 第三題 找倍數
 ```C
 #include <stdio.h>
 int main()
@@ -45,7 +44,7 @@ int main()
 }
 ```
 
-## 第四題 整數轉換為等級
+# 第四題 整數轉換為等級
 ```C
 #include <stdio.h>
 int main()
@@ -58,7 +57,7 @@ int main()
 	else printf("F\n");
 }
 ```
-## 第五題 因式化簡
+# 第五題 因式化簡
 ```C
 #include <stdio.h>
 int main()
