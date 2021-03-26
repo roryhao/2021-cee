@@ -1,4 +1,3 @@
-# 2021-week-2
 # 第一題 讀入整數反序列印
 ```c
 #include <stdio.h>
