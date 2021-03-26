@@ -1,5 +1,4 @@
-#2021/week3/homework
-#第一題 計算陣列的平方值 
+# 第一題 計算陣列的平方值 
 ```C
 #include <stdio.h>
 int main()
@@ -17,7 +16,7 @@ int main()
 
 ```
 
-#第二題 大小寫轉換 
+# 第二題 大小寫轉換 
 ```C
 #include <stdio.h>
 int main()
@@ -39,7 +38,7 @@ int main()
 }
 ```
 
-#第三題 計算幾週與幾天
+# 第三題 計算幾週與幾天
 ```C
 #include <stdio.h>
 int main()
@@ -50,7 +49,7 @@ int main()
 }
 ```
 
-#第四題 計程車資計算
+# 第四題 計程車資計算
 ```C
 #include <stdio.h>
 int main()
@@ -64,7 +63,7 @@ int main()
 }
 ```
 
-#第五題 兩數間可被5整除的整數 
+# 第五題 兩數間可被5整除的整數 
 ```C
 #include <stdio.h>
 int main()
@@ -86,7 +85,7 @@ int main()
 }
 ```
 
-#第六題 整數間最大距離
+# 第六題 整數間最大距離
 ```C
 #include <stdio.h>
 int main()
