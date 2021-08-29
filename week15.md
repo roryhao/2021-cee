@@ -34,7 +34,7 @@ int main()
 	else printf("%d",c);
 }
 ```
-第三題 水杯接水
+## 第三題 水杯接水
 ```c
 #include <stdio.h>
 int main()
